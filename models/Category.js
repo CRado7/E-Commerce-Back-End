@@ -11,8 +11,9 @@ Category.init(
       type: DataTypes.INTERGER,
       allowNull: false,
       primaryKey: true,
-      autoIncriment: true,
+      autoIncrement: true,
     },
+    
     category_name: {
       type: DataTypes.STRING,
       allowNull: false,
