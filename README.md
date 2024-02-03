@@ -18,10 +18,9 @@ Please use install by clicking this <a href="">link</a> to download the needed f
 
 ## Usage
 This is a CLI Application. All depenedancies will need to be intalled using "npm i". You will then need to souce your database by accessing MySQL and running "npm run seed" to seed the database.
-You can also see a video walkthrough by clicking this <a href="">link</a>.
-
-    
-    ![alt text](assets/images/screenshot.png)
+You can also see a video walkthrough of all working routes below. 
+<video controls="true" allowfullscreen="true" src="assets/Module%2013%20E-Commerce%20Back%20End%20Challenge.mp4" onloadstart="this.volume=0.5" style="max-width: 600px">
+</video>
 
 ## Credits
 ![badmath](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)
